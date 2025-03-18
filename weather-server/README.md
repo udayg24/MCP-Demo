@@ -1,0 +1,1 @@
+this was built entirely using cursor composer following the [documentation](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
