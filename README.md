@@ -5,3 +5,4 @@
 ## MCP examples
 
 - [Weather MCP](./weather-server)
+- [Documentation MCP](./documentation)
