@@ -1,0 +1,1 @@
+A simple tool to search and fetch documentation for a given query and library.
